@@ -89,7 +89,7 @@ range of $$ X $$ from which $$ K + 1 $$ new variables are created.
 
 $$ C_{0}(X) = I(X < C_{1}) , $$
 
-$$ C_{1}(X) = I(C_{2} \leq X \leq C_{3}) , $$
+$$ C_{1}(X) = I(C_{1} \leq X \leq C_{2}) , $$
 
 $$ ... $$
 
